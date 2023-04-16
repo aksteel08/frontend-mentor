@@ -1,6 +1,7 @@
 body{
   background-color: lightgrey;
   padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .qrcard{
@@ -34,5 +35,5 @@ h3{
 p{
   color: grey;
   font-size: 12px;
-  width: 0%;
+  width: 70%;
 }
